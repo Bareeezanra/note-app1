@@ -1,1 +1,1 @@
-# note-app1 dicoding submission
+# note-app1 proyek awal, Dicoding
